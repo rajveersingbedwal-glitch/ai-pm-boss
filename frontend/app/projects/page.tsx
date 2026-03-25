@@ -1,1 +1,0 @@
-# frontend/app/projects/page.tsx
